@@ -1,6 +1,6 @@
 # calcnumfava - Soluções de VC
 
-Este repositório contém soluções relacionadas a questões de **VC**, elaboradas para estudos e práticas de cálculo numérico, provenientes do Instituto de Matemática e Estatística (IME).
+Este repositório contém soluções relacionadas a questões de **VC**, elaboradas para estudos e práticas de cálculo numérico, provenientes do Instituto de Militar de Engenharia (IME).
 
 ## Estrutura do Repositório
 
